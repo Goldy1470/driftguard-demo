@@ -1,12 +1,12 @@
 {
   "name": "DriftGuard (Goldy1470)",
-  "url": "http://localhost:3000",
+  "url": "http://localhost:3999",
   "hook_attributes": {
     "url": "https://smee.io/cW5f9q3iQWctb8bp",
     "active": true
   },
-  "redirect_url": "http://localhost:3000/api/github/manifest",
-  "setup_url": "http://localhost:3000/install-done",
+  "redirect_url": "http://localhost:3999/api/github/manifest",
+  "setup_url": "http://localhost:3999/install-done",
   "public": false,
   "default_permissions": {
     "metadata": "read",
